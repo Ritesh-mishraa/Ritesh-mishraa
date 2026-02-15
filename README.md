@@ -48,9 +48,12 @@ Email: rajmi8948360380@gmail.com
 
 ⭐ Open to Backend / Full-Stack Opportunities
 
+
+
 ## 📊 GitHub Stats
 
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh-mishraa&show_icons=true)
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?usernameRitesh-mishraa&show_icons=true&theme=default&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-mishraa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-mishraa&layout=compact&theme=default)
+
 
