@@ -15,26 +15,17 @@ Strong foundation in:
 • REST API architecture  
 • Authentication & state management  
 
-Solved 250+ problems on LeetCode.
 
 ---
 
-## 💼 Experience
-
-**Graduate Engineer Trainee – CountryEdu Pvt Ltd (Jan 2026 – Present)**  
-• Developed responsive applications using React & Next.js  
-• Improved performance and reduced re-renders through optimized state handling  
-• Integrated REST APIs and collaborated on backend features  
-
----
 
 ## 🛠 Tech Stack
 
-Languages: JavaScript, TypeScript, Java, Python, C  
-Frontend: React.js, Next.js, HTML, CSS, Tailwind  
+Languages: Java, Python, Javascript 
+Frontend: React.js, Next.js, HTML, CSS, Tailwind CSS  
 Backend: Node.js, Express.js  
 Database: MongoDB, MySQL  
-Tools: Git, GitHub, Render  
+Tools: Git, GitHub, Render, Versal 
 
 ---
 
@@ -49,10 +40,17 @@ Tools: Git, GitHub, Render
 
 ## 📫 Connect With Me
 
-LinkedIn: (Add Link)  
-Portfolio: (Add Link)  
+LinkedIn: https://www.linkedin.com/in/ritesh-kumar-mishra-a7b8b3249/
+Portfolio: https://ritesh-mishraa.github.io/Portfolio/ 
 Email: rajmi8948360380@gmail.com  
 
 ---
 
 ⭐ Open to Backend / Full-Stack Opportunities
+
+## 📊 GitHub Stats
+
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh-mishraa&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-mishraa&layout=compact)
+
