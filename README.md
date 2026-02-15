@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ritesh Kumar Mishra
 
-Full-Stack Developer (MERN) | Backend-Focused | DSA Enthusiast  
+Full-Stack Developer (MERN) | DSA Enthusiast  
 
 ---
 
@@ -32,7 +32,7 @@ Tools: Git, GitHub, Render, Versal
 ## 🏆 Achievements
 
 • 250+ DSA problems solved  
-• NPTEL Certified in Programming in Java  
+• NPTEL Certified in Programming in Java (IIT Kharagpur)  
 • NPTEL Certified in DBMS (IIT Kharagpur)  
 • Hackathon participant  
 
