@@ -30,12 +30,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritesh-mishraa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=ritesh-mishraa&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ritesh-mishraa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-mishraa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ritesh-mishraa&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -43,18 +42,10 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-activity-graph.vercel.app/graph?username=ritesh-mishraa&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh-mishraa&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ritesh-mishraa/ritesh-mishraa/output/snake.svg" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
