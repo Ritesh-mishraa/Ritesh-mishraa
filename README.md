@@ -1,59 +1,91 @@
-# Hi 👋 I'm Ritesh Kumar Mishra
+<h1 align="center">Hi 👋, I'm Ritesh Kumar Mishra</h1>
+<h3 align="center">🚀 Full-Stack Developer (MERN) | DSA Enthusiast</h3>
 
-Full-Stack Developer (MERN) | DSA Enthusiast  
-
----
-
-## 🚀 About Me
-
-I build scalable web applications using modern JavaScript technologies.  
-Currently working as a Graduate Engineer Trainee, contributing to production-level frontend and backend systems.
-
-Strong foundation in:
-• Data Structures & Algorithms  
-• DBMS & OOP  
-• REST API architecture  
-• Authentication & state management  
-
+<p align="center">
+  <a href="https://github.com/ritesh-mishraa">
+    <img src="https://komarev.com/ghpvc/?username=ritesh-mishraa&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh" />
+  </a>
+</p>
 
 ---
 
+## 🧑‍💻 About Me
+- 🔭 Building **scalable full-stack web applications**
+- 🌱 Improving problem-solving with **DSA & System Design**
+- ⚡ Strong in **REST APIs, Authentication & State Management**
+- 🎯 Goal: Become a **high-impact Backend / Full-Stack Engineer**
 
-## 🛠 Tech Stack
+---
 
-Languages: Java, Python, Javascript 
-Frontend: React.js, Next.js, HTML, CSS, Tailwind CSS  
-Backend: Node.js, Express.js  
-Database: MongoDB, MySQL  
-Tools: Git, GitHub, Render, Versal 
+## 🛠️ Tech Stack
+
+### 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,render" />
+</p>
 
 ---
 
 ## 🏆 Achievements
+- 🧠 Solved **300+ DSA problems**
+- 🎓 NPTEL Certified in **Programming in Java (IIT Kharagpur)**
+- 🎓 NPTEL Certified in **DBMS (IIT Kharagpur)**
+- 💡 Participated in **Hackathons**
 
-• 250+ DSA problems solved  
-• NPTEL Certified in Programming in Java (IIT Kharagpur)  
-• NPTEL Certified in DBMS (IIT Kharagpur)  
-• Hackathon participant  
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritesh-mishraa&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh-mishraa&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-mishraa&layout=compact&theme=tokyonight" alt="langs" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/ritesh-kumar-mishra-a7b8b3249/
-Portfolio: https://ritesh-mishraa.github.io/Portfolio/ 
-Email: rajmi8948360380@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ritesh-kumar-mishra-a7b8b3249/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:rajmi8948360380@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
-⭐ Open to Backend / Full-Stack Opportunities
+## 💡 Quote
+> "Consistency beats talent when talent doesn't work hard."
 
+---
 
-
-## 📊 GitHub Stats
-
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh-mishraa&show_icons=true&theme=default&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-mishraa&layout=compact&theme=default)
-
-
+⭐ *Open to Full-Stack Developer Opportunities*
