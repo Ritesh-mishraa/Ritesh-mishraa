@@ -12,7 +12,7 @@
 ## 🚀 About Me
 - 💻 Full-Stack Developer specializing in **MERN stack**
 - 🔧 Strong focus on **Backend Development & System Design**
-- 🧠 Solved **250+ DSA problems**
+- 🧠 Solved **300+ DSA problems**
 - ⚡ Experienced in building **REST APIs, authentication systems & scalable applications**
 - 📚 Strong fundamentals in **DBMS, OOP, and Data Structures**
 - 🎯 Aiming to build **high-performance, production-ready systems**
