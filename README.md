@@ -20,7 +20,7 @@ I am a highly motivated and detail-oriented **Full-Stack Developer** specializin
 
 ---
 
-## 💼 Why Hire Me? (Core Strengths for Recruiters & HR)
+## 💼 Why Hire Me? 
 
 *   **Production-Ready Backend Development**: Experienced in designing RESTful APIs, securing endpoints via JWT/OAuth, managing relational and non-relational databases, and handling server deployments.
 *   **Strong Analytical & Problem-Solving Skills**: Active DSA practitioner with 300+ solved problems, enabling me to optimize critical execution paths and write highly efficient code.
@@ -43,14 +43,16 @@ I am a highly motivated and detail-oriented **Full-Stack Developer** specializin
 ### 🚀 **CommitStream** — Real-Time Git Merge & Collaboration Workspace
 > A dark-themed, real-time collaborative MERN application designed to optimize development workflows, predict & resolve code conflicts, and coordinate work for remote engineering teams.
 
-- 🔄 **Real-Time Collaboration**: Implemented WebSockets via **Socket.io** to power instant developer discussion rooms and live dashboard synchronization.
+- 🔄 **Real-Time Collaboration & Team Chat**: Implemented WebSockets via **Socket.io** to power instant developer discussions, real-time team chat channels, and live dashboard synchronization.
+- 🤖 **AI-Powered Codebase Chatbot**: Built an integrated AI assistant that parses codebase files to answer developers' queries, explain logic, and suggest context-aware optimizations.
 - ⚡ **Centralized Merge Conflict Resolution**: Developed a dedicated environment for predicting, viewing, and resolving Git merge conflicts seamlessly.
+- 📰 **Smart Blog Aggregator**: Implemented a web-scraping service that curates developer news and articles from various sources, rewrites them using AI for readability, and displays them on a centralized blog feed.
 - 📋 **Integrated Kanban Board**: Crafted an intuitive task management workspace mapped directly to GitHub repository branches and pull request statuses.
 - 🔑 **Secure GitHub OAuth**: Configured robust OAuth authentication flows allowing developers to link and access their repositories securely.
 
-**Technologies Used:** `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Socket.io` • `Tailwind CSS` • `GitHub REST API`
+**Technologies Used:** `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Socket.io` • `Tailwind CSS` • `AI/LLM API` • `Web Scraping` • `GitHub REST API`
 
-🔗 **Project Links:** &nbsp; [💻 GitHub Repository](https://github.com/Ritesh-mishraa/CommitStream) &nbsp; | &nbsp; [🌐 Portfolio / Live Demo](https://ritesh-mishraa.github.io/Portfolio/)
+🔗 **Project Links:** &nbsp; [💻 GitHub Repository](https://github.com/Ritesh-mishraa/CommitStream) &nbsp; | &nbsp; [🌐 Portfolio / Live Demo](https://commitstream.onrender.com/)
 
 ---
 
