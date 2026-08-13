@@ -3,7 +3,7 @@
 <!-- Animated wave header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ritesh%20Kumar%20Mishra&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=E0E0E0" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Backend-Focused+Engineer;System+Design+%26+DSA+Enthusiast;300%2B+DSA+Problems+Solved;Open+to+Full-Time+%26+Internship+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Backend-Focused+Engineer;System+Design+%26+DSA+Enthusiast;350%2B+DSA+Problems+Solved;Open+to+Full-Time+%26+Internship+Roles" alt="Typing SVG" />
 
 <br/>
 
@@ -33,14 +33,14 @@ const ritesh = {
     role: "Full-Stack Developer (MERN) | Backend Engineer",
     focus: ["System Design", "Scalable APIs", "Real-Time Apps"],
     stack: "MongoDB · Express · React · Node.js · Next.js",
-    dsa: "300+ problems solved",
+    dsa: "350+ problems solved",
     currentlyLearning: "Advanced System Design & Distributed Systems",
     lookingFor: "Full-Time SDE / Backend / Full-Stack roles"
 };
 ```
 
 - 💻 Building with the modern JavaScript/TypeScript ecosystem — **MongoDB, Express, React, Node.js, Next.js**
-- 🧠 Strong CS fundamentals — **DSA (300+ problems)**, DBMS, and OOP
+- 🧠 Strong CS fundamentals — **DSA (350+ problems)**, DBMS, and OOP
 - ⚡ Passionate about clean, modular, well-tested backend APIs
 - 🎯 Focused on query optimization, low-latency systems, and application security
 
@@ -51,7 +51,7 @@ const ritesh = {
 | Strength | Details |
 |---|---|
 | 🏗️ **Production-Ready Backends** | RESTful API design, JWT/OAuth-secured endpoints, SQL & NoSQL database management, deployment pipelines |
-| 🧩 **Problem-Solving** | 300+ DSA problems solved — efficient, optimized code on critical execution paths |
+| 🧩 **Problem-Solving** | 350+ DSA problems solved — efficient, optimized code on critical execution paths |
 | ⚡ **Real-Time Systems** | Hands-on experience with WebSockets/Socket.io for low-latency, live collaboration features |
 | 🔀 **Git & Workflow** | Strong grasp of version control, CI/CD, agile practices, and complex branching strategies |
 | 🧱 **Clean Architecture** | Modular codebase design, OOP principles, normalized database schemas |
